@@ -1,0 +1,30 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+!强制走代理示例:
+||google.com
+||*.google.com
+
+!强制不走代理示例:
+@@baidu.com
+@@*.baidu.com
+
+! 修改完成后请更新为GFWList一次方可生效。
+
+! openai相关
+||*.openai.com
+||*.chatgpt.com
+||chatgpt.com
+
+! microsoft-openai相关
+||copilot.microsoft.com
+
+! 设计相关网站
+||*.baeldung.com
+
+! java相关
+||*.docker.com
+||*.github.com
+||*.mvnrepository.com
+||*.grafana.com
+||hadoop.apache.org
