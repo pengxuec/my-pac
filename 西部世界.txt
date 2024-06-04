@@ -17,7 +17,8 @@
 ||chatgpt.com
 
 ! microsoft-openai相关
-||copilot.microsoft.com
+||*.microsoft.com
+||*.bing.com
 
 ! 设计相关网站
 ||*.baeldung.com
