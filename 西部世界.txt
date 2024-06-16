@@ -11,21 +11,28 @@
 
 ! 修改完成后请更新为GFWList一次方可生效。
 
-! openai相关
-||*.openai.com
-||*.chatgpt.com
+! ########################## 科学上网 ##########################
+||westworldss.com
+
+! ########################## 常用 ##########################
+||docker.com
+||github.com
+
+! ########################## AGI ##########################
+||openai.com
 ||chatgpt.com
+||microsoft.com
+||bing.com
+||www.coze.com
 
-! microsoft-openai相关
-||*.microsoft.com
-||*.bing.com
+! ########################## Java ##########################
+||mvnrepository.com
+||grafana.com
 
-! 设计相关网站
-||*.baeldung.com
-
-! java相关
-||*.docker.com
-||*.github.com
-||*.mvnrepository.com
-||*.grafana.com
+! ########################## 大数据 ##########################
 ||hadoop.apache.org
+
+! ########################## 其他 ##########################
+
+! ########################## 视觉设计 ##########################
+||baeldung.com
