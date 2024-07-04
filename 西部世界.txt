@@ -25,6 +25,7 @@
 ||microsoft.com
 ||bing.com
 ||www.coze.com
+||serpapi.com
 
 ! ########################## Java ##########################
 ||mvnrepository.com
