@@ -27,6 +27,7 @@
 ||www.coze.com
 ||serpapi.com
 ||groq.com
+||cloudflare.com
 
 ! ########################## Java ##########################
 ||mvnrepository.com
