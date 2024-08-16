@@ -26,6 +26,7 @@
 ||bing.com
 ||www.coze.com
 ||serpapi.com
+||groq.com
 
 ! ########################## Java ##########################
 ||mvnrepository.com
