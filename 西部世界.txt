@@ -28,6 +28,7 @@
 ||serpapi.com
 ||groq.com
 ||cloudflare.com
+||openwebui.com
 
 ! ########################## Java ##########################
 ||mvnrepository.com
