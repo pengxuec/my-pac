@@ -29,6 +29,7 @@
 ||groq.com
 ||cloudflare.com
 ||openwebui.com
+||auth0.com
 
 ! ########################## Java ##########################
 ||mvnrepository.com
