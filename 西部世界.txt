@@ -30,6 +30,7 @@
 ||cloudflare.com
 ||openwebui.com
 ||auth0.com
+||dify.ai
 
 ! ########################## Java ##########################
 ||mvnrepository.com
