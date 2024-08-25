@@ -31,6 +31,7 @@
 ||openwebui.com
 ||auth0.com
 ||dify.ai
+||weaviate.io
 
 ! ########################## Java ##########################
 ||mvnrepository.com
