@@ -32,6 +32,7 @@
 ||auth0.com
 ||dify.ai
 ||weaviate.io
+||firecrawl.dev
 
 ! ########################## Java ##########################
 ||mvnrepository.com
