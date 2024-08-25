@@ -33,6 +33,7 @@
 ||dify.ai
 ||weaviate.io
 ||firecrawl.dev
+||notion.so
 
 ! ########################## Java ##########################
 ||mvnrepository.com
