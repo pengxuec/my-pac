@@ -34,7 +34,6 @@
 ||weaviate.io
 ||firecrawl.dev
 ||notion.so
-||chatpdf.com
 
 ! ########################## Java ##########################
 ||mvnrepository.com
@@ -44,6 +43,7 @@
 ||hadoop.apache.org
 
 ! ########################## 其他 ##########################
+||onedrive.live.com
 
 ! ########################## 视觉设计 ##########################
 ||baeldung.com
