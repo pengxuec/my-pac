@@ -34,6 +34,7 @@
 ||weaviate.io
 ||firecrawl.dev
 ||notion.so
+||chatpdf.com
 
 ! ########################## Java ##########################
 ||mvnrepository.com
